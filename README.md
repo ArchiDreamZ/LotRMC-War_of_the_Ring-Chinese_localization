@@ -8,6 +8,12 @@
 
 魔戒大战是国外的一个服务器，该模组是那服务器为自己制作的，而该服务器的客户端在模组发布后，经过调整就变成了整合包。
 
+CurseForge：[The War of the Ring MC（1.7.10）](https://www.curseforge.com/minecraft/mc-mods/war-of-the-ring-mc)
+
+俄文介绍贴：[War of the Ring](https://lotrminecraftmod.fandom.com/ru/wiki/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/War_of_the_Ring)
+
+服务器官网：[WotRmc官网](https://www.wotrmc.com/)
+
 整合包下载(坚果云)：https://www.jianguoyun.com/p/DQIh4MUQvqaICxiX_r4FIAA
 
 ## 仓库结构
