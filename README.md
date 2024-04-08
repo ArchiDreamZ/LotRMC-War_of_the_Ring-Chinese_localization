@@ -27,7 +27,7 @@
 >**speech**文件夹是魔戒NPC的对话，以及NPC小任务。
 
 ### 其他模组
-这7个模组中大部分模组已经汉化，目前仅有“伊加墨的财产”需要汉化。
+这7个模组已全部汉化。
 
 下面是其他7个模组的相关链接：
 
@@ -43,8 +43,7 @@
 >
 >wizardry 巫术学 [Wizardry-1.7.10-彼梦修复与平衡版](https://github.com/ArchiDreamZ/Wizardry-1.7.10-Fixed_and_Balanced) （已汉化）
 >
->
->yegamolchattels 伊加墨的财产 [MC百科：伊加墨的财产Ye Gamol Chattels](https://www.mcmod.cn/class/605.html)
+>yegamolchattels 伊加墨的财产 [MC百科：伊加墨的财产Ye Gamol Chattels](https://www.mcmod.cn/class/605.html)（已汉化）
 
 
 ## 魔戒MC中文社区
